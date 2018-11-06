@@ -4,15 +4,8 @@ body {
 }
 
 .loginbutton {
-  background-color: #ff0000; /* Green */
+    background-color: #ff0000;
     border: solid;
     color: black;
-    padding: 5px 15px;
-    text-align: center;
-    text-decoration:  underline;
-    display: inline-block;
-    font-size: 16px;
-}
-#header {
-  color: blue;
+    padding: 15px 32px 10px 12px;
 }
